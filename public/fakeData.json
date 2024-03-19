@@ -1,0 +1,93 @@
+[
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710571035/nemuiopxignpaaycwav3.png",
+        "recipe_id": 1,
+        "recipe_name": "Creamy Spaghetti Carbonari",
+        "short_description": "Indulge in the rich flavors of Italy with this creamy spaghetti Carbonari.",
+        "ingredients": [
+            "200g spaghetti noodles",
+            "100g pacta or bacon",
+            "2 large eggs"
+            
+        ],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710658138/ao5385fokzwzyy7nef7p.png",
+        "recipe_id": 2,
+        "recipe_name": "Classic Caesar Salad",
+        "short_description": "Enjoy the crisp freshness of a classic Caesar  homemade dressing.",
+        "ingredients": [
+            "1 head romaine lettuce, chopped",
+            "1/2 cup croutons",
+            "50g grated Parmesan cheese",
+            "1 teaspoon Dijon mustard"
+           
+        ],
+        "preparing_time": "15 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710733179/ezzfkuokczibduvfu4uk.jpg",
+        "recipe_id": 3,
+        "recipe_name": "HomeStyle Chicken Curry",
+        "short_description": "Experience the warmth of home with this aromatic chicken curry.",
+        "ingredients": [
+            "500g chicken thighs, boneless",
+            "2 onions, finely chopped",
+            "3 tomatoes, pureed",
+            "3 cloves garlic, minced",
+            "1 inch ginger, grated"
+           
+        ],
+        "preparing_time": "45 min",
+        "calories": "380 calories"
+    },
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710615280/samples/km2k5aeflbreec8dpxwy.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "Savor the vibrant flavors of fresh vegetables in this quick and nutritious stir fry.",
+        "ingredients": [
+            "1 bell pepper, sliced",
+            "1 carrot, julienned",
+            "1 broccoli head, florets ",
+            "100g snap peas",
+            "2 tablespoons soy sauce"
+          
+        ],
+        "preparing_time": "25 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710658341/f1kaecdopnghlvwzlmfl.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Moist Banana Bread",
+        "short_description": "Delight your taste buds with this moist and flavorful banana bread.",
+        "ingredients": [
+            "3 ripe bananas, mashed",
+            "1/2 cup unsalted butter, melted",
+            "1/2 cup granulated sugar",
+            
+            "1/2 teaspoon ground cinnamon"
+        ],
+        "preparing_time": "60 min",
+        "calories": "220 calories"
+    },
+    {
+        "recipe_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710733325/exis6oanobsqqbzdq5bf.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Hearty Vegetable Soup",
+        "short_description": "Warm your soul with this hearty vegetable soup packed with ",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "2 carrots, diced",
+            "2 celery stalks, diced"
+            
+        ],
+        "preparing_time": "35 min",
+        "calories": "150 calories"
+    }
+]
